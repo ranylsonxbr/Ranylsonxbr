@@ -1,6 +1,9 @@
-# 👩🏻‍💻 Ranylson Santos
-**`Desenvolvedor Back End`**
-Me chamo Ranylson Santos, tenho 22 anos e Sou um Desenvolvedor Backend Java entusiasta do universo tecnológico. Os avanços constantes me motivam a buscar soluções criativas e inovadoras na programação. .
+<h1 align="center">👨🏻‍💻 Ranylson Santos</h1>
+<h3 align="center">Desenvolvedor Back-End Java</h3>
+<p align="center">
+  Tenho 23 anos e sou desenvolvedor backend Java, entusiasta do universo tecnológico.<br/>
+  Os avanços constantes me motivam a buscar soluções criativas e inovadoras na programação.
+
 ---
 ### 🤖 Linguagens e Tecnologias
 <img 
